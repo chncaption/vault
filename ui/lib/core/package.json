@@ -22,7 +22,7 @@
     "ember/render-modifiers": "*",
     "ember-power-select": "*",
     "ember-router-helpers": "*",
-    "ember-svg-jar": "*",
+    "ember-svg-jar": "2.7.0",
     "ember-truth-helpers": "*",
     "ember-wormhole": "*",
     "escape-string-regexp": "*",
